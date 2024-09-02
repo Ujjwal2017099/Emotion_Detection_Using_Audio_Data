@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-io
+matplotlib
+numpy
+ffmpeg-python
